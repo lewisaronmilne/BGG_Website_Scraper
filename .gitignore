@@ -1,0 +1,10 @@
+.directory
+bgenv
+backups
+last_api_response.xml
+matches_none.json
+matches_uncertain_exact.json
+matches_uncertain_non_exact.json
+pdf_data
+d20.pdf
+games_db.json
